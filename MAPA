@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapas | Valorant.go</title>
+</head>
+<body>
+    <header>
+        <img src="img/imagemheader.jpg" height="720" width="1440"/>
+        <a href="link da home"><img src="LOGO" height="114.08" width="226"/></a>
+            <nav id="navbar">   
+                <ul>
+                <li><a href="link agente">AGENTES</a></li>
+                <li><a href="link mapas">MAPAS</a></li>
+                <li><a href="link arsenal">HOME</a></li>
+                <li><a href="link e-sports">E-SPORTS</a></li>
+                </ul>
+            </nav> 
+    </header>
+
+    <section>
+        <h1><strong>MAPAS</strong></h1>
+        <article>
+            <h2>SUNSET</h2>
+            <p>Um desastre em uma instalação da Kingdom ameaça engolir toda a vizinhança. Dê um pulo no seu food truck favorito e depois lute por toda a cidade neste mapa três rotas.</p>
+            <img src="../Imagens/Sunset_Top_Down_View.png" height="350" width="420" >
+        </article>
+        <article>
+            <h2>LOTUS</h2>
+            <p>Uma estrutura misteriosa com um conduíte astral irradia poder ancestral. Grandes portas de pedra oferecem várias oportunidades de movimentação e revelam caminhos para três locais enigmáticos.</p>
+            <img src="../Imagens/1013px-Lotus_Top_Down_View.png" height="350" width="420">
+        </article>
+        <article>
+            <h2>PEARL</h2>
+            <p>Atacantes avançam em direção aos Defensores neste vibrante mapa subaquático com dois pontos principais. Pearl é um mapa sem mecânicas focado no ambiente. Encare a batalha em um Meio compacto ou em áreas mais alongadas no nosso primeiro mapa situado na Terra Ômega.</p>
+            <img src="../Imagens/1013px-Pearl_Top_Down_View.png" height="350" width="420">
+        </article>
+        <article>
+            <h2>BREEZE</h2>
+            <p>Conheça as ruínas históricas ou visite as grutas deste paraíso tropical. Mas é bom se cobrir, pois temos espaços muito abertos e embates de longa distância. Cuide dos seus flancos e você poderá curtir a brisa do Breeze.</p>
+            <img src="../Imagens/1013px-Breeze_Top_Down_View.png" height="350" width="420">
+         </article>
+        <article>
+            <h2>ICEBOX</h2>
+            <p>Seu próximo campo de batalha será uma área de escavação secreta da Kingdom retomada pela força do Ártico. Você precisará ter cuidado com os terrenos horizontais dos dois pontos principais, que são protegidos por neve e metal. Aproveite para usar as tirolesas, e seus inimigos nunca verão seu ataque iminente.</p>
+            <img src="../Imagens/1013px-VALORANT_Icebox_2022_Top.png" height="350" width="420">
+        </article>
+        <article>
+            <h2>BIND</h2>
+            <p>Dois pontos. Nenhuma área no meio. Você precisa escolher: direita ou esquerda? E aí, qual vai ser? Ambos os lados oferecem caminhos diretos para os atacantes, e dois teleportadores de sentido único facilitam o flanqueamento.</p>
+            <img src="../Imagens/1013px-VALORANT_Bind_2022_Top.png" height="350" width="420">
+        </article>
+        <article>
+            <h2>HAVEN</h2>
+            <p>Sob um mosteiro abandonado, é possível ouvir agentes se enfrentando pelo controle de três pontos distintos. Neste mapa, há mais áreas para controlar. Em compensação, os defensores também conseguem aproveitar o território extra para coordenar investidas mais agressivas.</p>
+            <img src="../Imagens/1013px-Haven_Top_Down_View.png" height="350" width="420">
+        </article>
+        <article>
+            <h2>SPLIT</h2>
+            <p>Se quiser avançar, é preciso subir. Separados por uma área central elevada, dois pontos fornecem movimentação rápida com duas cordas ascendentes. Cada ponto tem uma torre imponente que é vital para o controle da área. E não se esqueça: mantenha os olhos abertos e focados nas áreas elevadas antes que tudo vá pelos ares.</p>
+            <img src="../Imagens/1013px-Split_Top_Down_View.png" height="350" width="420">
+        </article>
+        <article>
+            <h2>ASCENT</h2>
+            <p>Com várias opções de posicionamento e conflito, um território aberto divide duas áreas em Ascent. Cada uma pode ser fortificada por portas explosivas irreversíveis que, quando derrubadas, forçam as equipes a destruí-las ou a acharem outra maneira de prosseguir. Não deixe que o inimigo tome o seu território.</p>
+            <img src="../Imagens/1013px-VALORANT_Ascent_2022_Top.png" height="350" width="420">
+        </article>
